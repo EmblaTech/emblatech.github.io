@@ -3,7 +3,7 @@ layout: post
 title: "Async POST requests in Python with aiohttp"
 quote: "I was f\*\*\*ed at one point that being a Python 2.X developer for ages, and now had to develop a truly asynchronous http post request script to upload files to a third party service in a day. IN A FREAKING DAY!"
 image:
-      url: /media/2017-22-26-async-post-python-aiohttp/nasa-53884-unsplash.jpg
+      url: /media/2017-11-26-async-post-python-aiohttp/nasa-53884-unsplash.jpg
 video: false
 comments: true
 author_name: Chathuranga Bandara
