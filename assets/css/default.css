@@ -99,7 +99,7 @@ h3 {
 	top: 50%;
 	background-repeat: no-repeat;
 	position: absolute;
-	border-radius: 50%;
+	/*border-radius: 50%;*/
 	transition-duration: .25s;
 	z-index: 1;
 }
