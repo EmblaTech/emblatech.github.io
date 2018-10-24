@@ -7,7 +7,7 @@ permalink:	/blog/:title
 title:            Embla Tech
 tagline:          'blog, tech, life, sri lanka'
 description:      'Articles and magazine by the staff of Embla Software Innovation'
-url:              http://emblatech.github.io
+url:              https://emblatech.github.io
 baseurl:          
 commentsystem:    disqus
 disqus:           embla-tech
@@ -53,7 +53,7 @@ menu:
 
 copyright:
   author:         Embla Software Innovation
-  url:            http://emblatech.github.io
+  url:            https://emblatech.github.io
   type_title:     Some rights reserved
   type_url:       http://creativecommons.org/licenses/by-nc/2.5
 
