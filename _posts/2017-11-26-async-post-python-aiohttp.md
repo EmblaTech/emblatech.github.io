@@ -8,6 +8,7 @@ video: false
 comments: true
 author_name: Chathuranga Bandara
 author_url: https://chathuranga.com/
+author_pic: chathuranga.jpg
 ---
 
 <p>
