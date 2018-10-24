@@ -14,6 +14,13 @@ author_url: https://chathuranga.com/
 	<small class="_1l8RX _1ByhS"><center>Photo by <a href="https://unsplash.com/photos/Q1p7bh3SHj8?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">NASA</a> on <a href="/search/photos/network?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></center></small>
 </p>
 
+<style type="text/css">
+  #post-info h2 {
+      background-color: rgba(0,0,0,.5);
+        padding: 10px;
+  }
+</style>
+
 I was f☆☆☆ed at one point that being a Python 2.X developer for ages, and now had to develop a truly asynchronous http post request script to upload files to a third party service in a day. IN A FREAKING DAY!. Okay I might have been doing too much caffeine and other stuff that my heart started to pump more than usual, but I needed to prove myself and others that I’m a bloody Python guru.
 
 Anyways, I searched the web, the God Almighty Stackoverflow and the sexy chick who may or may not got herpes Medium among others hookers and dolls of technology blogs and gists yet could not find an understandable or rather useful way to do it. So i was back to square 1. Among the prayers to the Gods of Python, reading the Zen of python loud, sacrificing the morning coffee to the Guardians of multidimensional programming languages, I wished I was born in another realm where people spoke in Python. However, Unless I’m Harry Potter I would not be able to understand the snake language hence, I had to search all in English.
