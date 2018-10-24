@@ -4,40 +4,41 @@ markdown:	kramdown
 permalink:	/blog/:title
 
 # Setup
-title:            Thinny
-tagline:          'blog'
-description:      'My personal blog.'
-url:              http://camporez.github.io
+title:            Embla Tech
+tagline:          'blog, tech, life, sri lanka'
+description:      'Articles and magazine by the staff of Embla Software Innovation'
+url:              http://emblatech.github.io
 baseurl:          
-commentsystem:    google
-disqus:           example
+commentsystem:    disqus
+disqus:           embla-tech
 
 author:
-  name:           Ian Brunelli
-  url:            https://google.com/+IanCamporezBrunelli
+  name:           Embla Tech
+  url:            https://emblatech.github.io
+  email:          geeks@embla.asia
 
-paginate:         5
+paginate:         9
 
 # Custom vars
 icon:             /assets/images/icon.png
 cover:            /assets/images/cover.jpg
 
 social:
-  - icon:         twitter
-    url:          https://twitter.com/iancamporez
-    desc:         Follow me on twitter
+  # - icon:         twitter
+  #   url:          https://twitter.com/iancamporez
+  #   desc:         Follow me on twitter
 
   - icon:         github
-    url:          https://github.com/camporez
+    url:          https://github.com/emblatech
     desc:         Fork me on github
 
-  - icon:         googleplus-alt
-    url:          https://google.com/+IanCamporezBrunelli
-    desc:         Add me on google+
+  # - icon:         googleplus-alt
+  #   url:          https://google.com/+IanCamporezBrunelli
+  #   desc:         Add me on google+
 
-  - icon:         feed
-    url:          http://camporez.github.io/atom.xml
-    desc:         Subscribe to my feed
+  # - icon:         feed
+  #   url:          http://camporez.github.io/atom.xml
+  #   desc:         Subscribe to my feed
 
 menu:
   - title:        Home
@@ -47,8 +48,8 @@ menu:
     url:          /about
 
 copyright:
-  author:         Camporez
-  url:            http://camporez.github.io
+  author:         Embla Software Innovation
+  url:            http://emblatech.github.io
   type_title:     Some rights reserved
   type_url:       http://creativecommons.org/licenses/by-nc/2.5
 

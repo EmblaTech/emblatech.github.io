@@ -7,6 +7,8 @@ image:
 video: false
 comments: true
 theme_color: 302F2D
+author_name: Harry Potter
+author_url: https://evildino.com
 ---
 
 # Thinny 2.1, codename "[Cosette](http://lesmiserables.wikia.com/wiki/Cosette)"
