@@ -30,7 +30,11 @@ social:
 
   - icon:         github
     url:          https://github.com/emblatech
-    desc:         Fork me on github
+    desc:         Find us on github
+
+  - icon:         location
+    url:          http://embla.asia
+    desc:         Embla Software Innovation official site
 
   # - icon:         googleplus-alt
   #   url:          https://google.com/+IanCamporezBrunelli
