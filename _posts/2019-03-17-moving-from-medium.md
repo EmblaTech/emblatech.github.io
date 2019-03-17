@@ -17,6 +17,13 @@ author_pic: nirmal.jpg
 	</center></small>
 </p>
 
+<style type="text/css">
+  #post-info {
+      background-color: rgba(0,0,0,.5);
+        padding: 10px;
+  }
+</style>
+
 Our staff at Embla Software Innovation have been contributing to our Medium publication for 2 years now. At the beginning, we chose Medium.com as the ideal platform over an in-house solution or a different platform like Wordpress for a few major reasons:
 
 - Existing Medium tech community and reach
