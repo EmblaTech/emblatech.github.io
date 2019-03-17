@@ -27,16 +27,16 @@ Electroencephalography (EEG) is one of the well-known medical procedure using fo
 
 <center>
 <img alt='Emotiv Epoc+ hi-resolution 14 channel mobile EEG headset' src='/media/2018-04-18-eeg-with-tms-in-bcis/1_Jy94QVLbXor-zWakgQ8iFA.png'>
-<small class="_1l8RX _1ByhS">
+<div><small class="_1l8RX _1ByhS">
 Emotiv Epoc+ hi-resolution 14 channel mobile EEG headset
-</small>
+</small></div>
 </center>
 
 <center>
-<img alt='Neurosky mindwave single channel mobile EEG headset' src='/media/2018-04-18-eeg-with-tms-in-bcis/1_wwkoWPeAtKq60CZhuxNFUQ.png'>
+<div><img alt='Neurosky mindwave single channel mobile EEG headset' src='/media/2018-04-18-eeg-with-tms-in-bcis/1_wwkoWPeAtKq60CZhuxNFUQ.png'>
 <small class="_1l8RX _1ByhS">
 Neurosky mindwave single channel mobile EEG headset
-</small>
+</small></div>
 </center>
 
 ## EEG Brain Computer Interfaces
@@ -68,9 +68,9 @@ Brainwaves also defines current static states, like mental state — how you
 
 <center>
 <img alt='Muse is a EEG headset with 4 channels' src='/media/2018-04-18-eeg-with-tms-in-bcis/1_Oh6_9GVliuwaFJjQiJX1zQ.jpeg'>
-<small class="_1l8RX _1ByhS">
+<div><small class="_1l8RX _1ByhS">
 Muse is a EEG headset with 4 channels
-</small>
+</small></div>
 </center>
 
 ## EEG to control own body elements
