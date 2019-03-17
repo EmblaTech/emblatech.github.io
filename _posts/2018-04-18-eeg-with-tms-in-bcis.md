@@ -25,9 +25,19 @@ tags: Neuroscience, Eeg, Tms, Electrophysiology, Bci
 
 Electroencephalography (EEG) is one of the well-known medical procedure using for capturing human brain behavior. Basically, EEG scan is recording electrical activity of the human brain so doctors can use these data to diagnose diseases. In the past EEG was used by doctors and researchers but now it is becoming a basic computer activity for everyday use. There are lot of EEG headsets out in the market. Some are very cheap while others are expensive. These EEG headsets are mentioned in different terms such as “Mind Controller”, “Brainwave Controller”, “Brain Computer Interface”, etc. Main functionality of an EEG headset is to capture brain waves. Some people may refer to Brain Computer Interface is only powered by EEG technology. This is not completely correct. There can be lot of variations. In this article I will also look at Transcranial Magnetic Stimulation (TMS) powered Brain Computer Interfaces (BCI) and their usage.
 
+<center>
 ![Emotiv Epoc+ hi-resolution 14 channel mobile EEG headset](/media/2018-04-18-eeg-with-tms-in-bcis/1_Jy94QVLbXor-zWakgQ8iFA.png)
+<small class="_1l8RX _1ByhS">
+Emotiv Epoc+ hi-resolution 14 channel mobile EEG headset
+</small>
+</center>
 
+<center>
 ![Neurosky mindwave single channel mobile EEG headset](/media/2018-04-18-eeg-with-tms-in-bcis/1_wwkoWPeAtKq60CZhuxNFUQ.png)
+<small class="_1l8RX _1ByhS">
+Neurosky mindwave single channel mobile EEG headset
+</small>
+</center>
 
 ## EEG Brain Computer Interfaces
 
@@ -79,6 +89,6 @@ References:
 - [https://www.psychologytoday.com/blog/governing-behavior/201606/spying-your-brain-move-your-hand](https://www.psychologytoday.com/blog/governing-behavior/201606/spying-your-brain-move-your-hand)
 - [https://www.emotiv.com/brain-controlled-technology/](https://www.emotiv.com/brain-controlled-technology/)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ogBX18maUiM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p><center><iframe width="560" height="315" src="https://www.youtube.com/embed/ogBX18maUiM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center></p>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rSQNi5sAwuc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p><center><iframe width="560" height="315" src="https://www.youtube.com/embed/rSQNi5sAwuc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center></p>
