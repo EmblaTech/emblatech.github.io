@@ -26,14 +26,14 @@ tags: Neuroscience, Eeg, Tms, Electrophysiology, Bci
 Electroencephalography (EEG) is one of the well-known medical procedure using for capturing human brain behavior. Basically, EEG scan is recording electrical activity of the human brain so doctors can use these data to diagnose diseases. In the past EEG was used by doctors and researchers but now it is becoming a basic computer activity for everyday use. There are lot of EEG headsets out in the market. Some are very cheap while others are expensive. These EEG headsets are mentioned in different terms such as “Mind Controller”, “Brainwave Controller”, “Brain Computer Interface”, etc. Main functionality of an EEG headset is to capture brain waves. Some people may refer to Brain Computer Interface is only powered by EEG technology. This is not completely correct. There can be lot of variations. In this article I will also look at Transcranial Magnetic Stimulation (TMS) powered Brain Computer Interfaces (BCI) and their usage.
 
 <center>
-![Emotiv Epoc+ hi-resolution 14 channel mobile EEG headset](/media/2018-04-18-eeg-with-tms-in-bcis/1_Jy94QVLbXor-zWakgQ8iFA.png)
+<img alt='Emotiv Epoc+ hi-resolution 14 channel mobile EEG headset' src='/media/2018-04-18-eeg-with-tms-in-bcis/1_Jy94QVLbXor-zWakgQ8iFA.png'>
 <small class="_1l8RX _1ByhS">
 Emotiv Epoc+ hi-resolution 14 channel mobile EEG headset
 </small>
 </center>
 
 <center>
-![Neurosky mindwave single channel mobile EEG headset](/media/2018-04-18-eeg-with-tms-in-bcis/1_wwkoWPeAtKq60CZhuxNFUQ.png)
+<img alt='Neurosky mindwave single channel mobile EEG headset' src='/media/2018-04-18-eeg-with-tms-in-bcis/1_wwkoWPeAtKq60CZhuxNFUQ.png'>
 <small class="_1l8RX _1ByhS">
 Neurosky mindwave single channel mobile EEG headset
 </small>
@@ -66,7 +66,12 @@ Imagine what if we can record brainwave patterns for a specific action (or a com
 
 Brainwaves also defines current static states, like mental state — how you feel right now. For each emotion there is a specific brainwave pattern. This can be a basic signal or a combination of several categories shown above. Some meditation practitioners are wearing EEG headsets to monitor their own meditation progress. Muse is a dedicated headset designed for meditation.
 
-![Muse is a EEG headset with 4 channels](/media/2018-04-18-eeg-with-tms-in-bcis/1_Oh6_9GVliuwaFJjQiJX1zQ.jpeg)
+<center>
+<img alt='Muse is a EEG headset with 4 channels' src='/media/2018-04-18-eeg-with-tms-in-bcis/1_Oh6_9GVliuwaFJjQiJX1zQ.jpeg'>
+<small class="_1l8RX _1ByhS">
+Muse is a EEG headset with 4 channels
+</small>
+</center>
 
 ## EEG to control own body elements
 
