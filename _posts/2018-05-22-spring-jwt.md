@@ -11,6 +11,8 @@ author_url: https://github.com/EmblaTech
 author_pic: istockphoto-836272842-612x612.jpg
 ---
 
+<style type="text/css"> #post-info { background-color: rgba(0,0,0,.5); padding: 10px; } </style>
+
 In this article we will see how to integrate a REST API authorization using JSON Web Token (JWT) standard and Spring Security into Spring Boot application. A private project has been created by this author and will be used as basis for this article and the code for same can be found on GitHub. Entire code hasn’t been presented here so you may need to check the project repository to understand the context. However this will include as much code snippet as possible while keeping the article clean.
 
 ## Brief introduction
