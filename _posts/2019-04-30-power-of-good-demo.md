@@ -14,7 +14,6 @@ author_pic: istockphoto-836272842-612x612.jpg
 <style type="text/css"> #post-info { background-color: rgba(0,0,0,.5); padding: 10px; } </style>
 
 
-
 How many of you have watched the movie “Jurassic park” ?. if so see whether you remember this section.
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/Eck_6exedq8" frameborder="0" allowfullscreen></iframe></center>
