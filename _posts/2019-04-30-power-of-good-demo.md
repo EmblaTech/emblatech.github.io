@@ -55,6 +55,6 @@ Most probably you will forget what you have discussed at the demonstration. Ther
 
 It is a best practice to summarize everything at the end of the demo. It always gives a better understanding of what you have completed, what have been changed and what you have planned for the next sprint.
 
-## 9. Rehearse , Rehearse and Rehearse
+## 9. Rehearse, Rehearse and Rehearse
 
 To do a better demonstration, preparation and practice is a must. Before do the demo please practice the scenario,flow and the presentation at lease twice.
